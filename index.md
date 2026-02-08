@@ -232,7 +232,7 @@ Overall, I was prescribed 10 procedures in HBOT, each for 60 mins.
 
 The first procedure was at 2.0 ATA, while I was prescribed 2.8 ATA. The thing is, you cannot have 2.8 ATA right away, you need to be trained. However, that 2.0 ATA which I luckly got the same day has stopped degradation of my cells and started the healing process.
 
-Gemini also noted that Metypred reaches peak activity about two hours after ingestion, so I took the steroids approx. 2 hours before the sesssion, as was suggested.
+Gemini also noted that Metypred reaches peak activity about two hours after ingestion, so everytime I took the steroids approx. 2 hours before the session, as was suggested.
 
 Regarding the effect after the first procedure: something started to change after 2 hours after I left the clinic. I had different kind of ringings in my ears, but they became softer. It was ok to listen to them like some music, but it was also ok to sleep. They were not that intensive as I had them during the previous night. So I was able to sleep properly.
 
@@ -242,11 +242,11 @@ My second HBOT session was at 2.2 ATA, the third at 2.5 ATA, and the final seven
 
 I would say the first three or four procedures yielded the most significant results. I won't go into every detail of how things shifted, but overall, different frequency ranges became hyper-sensitized on different days. For example, while shopping, I could hear the grit and sand under the wheels of other people's carts so loudly and clearly it felt as if my ear were pressed right against the wheel. At the same time, human voices sounded flat and unnatural.
 
-Another strange effect was the reaction to white noice: sounds of fans, the hissing of the radiator in the room and the fluttering of birds in an Instagram reel produced some strange low pitched ringing. After turning off the noise, the ringing stopped as well.
+Another strange effect was the reaction to white noise: sounds of fans, the hissing of the radiator in the room and the fluttering of birds in an Instagram reel produced some strange low pitched ringing. After turning off the noise, the ringing stopped as well.
 
 At one point, I performed a sine sweep test at low volume to assess my progress. Between 6 kHz and 8 kHz, I experienced a phenomenon where a single frequency (one note) sounded like multiple notes playing simultaneously. It was as if you pressed a single key on a piano, but it sounded like a dissonant chord. In addition, at some frequencies the center was jittering a bit, not significantly, but it was not solid.
 
-**I don't recommend you to do the test**, it is just I didn't know it is better two wait, and when you are worrying you want to know how your recovery is going on. However, Gemini gave me a great analogy: it said that performing such a test is like trying to jump on a leg you broke just a week ago.
+**I don't recommend you to do the test**, it is just I didn't know it is better to wait, and when you are worrying you want to know how your recovery is going on. However, Gemini gave me a great analogy: it said that performing such a test is like trying to jump on a leg you broke just a week ago.
 
 ## Current situation (03.02.26)
 
@@ -263,9 +263,9 @@ And here is the result approximately 3.5 weeks after the trauma (03.02.26):
 It exactly reflects how I hear now (08.02.26), after partial recovery:
 
 1. Lower Overall Volume: There is a +5 dB shift in bone conduction.
-2. Loss of "Body": Before this test, I described my hearing as sounding like small, thin speakers — especially when compared to the large, full-bodied sound of the Radiotehnika S-90 I grew up with. The audiogram confirms this: there is a +10 dB drop at frequencies below 1 kHz, a +15 dB drop in the left ear at 125 Hz, and a +10 dB dip in both ears at 6 kHz. Even though I have a drop, high frequencies after partial recovery become brighter than before but bass on some tracks is almost gone. I noticed, that on some tracks where I had enough of it before the trauma, it became nearly unnoticable after it. One time I literally thought there is no bass, it should start later, but no – if I listen very carefully I can barely hear it on that track, while on other tracks situation is a bit better. And this is in Sennheiser Momentum 2 – closed ANCs with some bass boost.
+2. Loss of "Body": Before this test, I described my hearing as sounding like small, thin speakers — especially when compared to the large, full-bodied sound of the Radiotehnika S-90 I grew up with. The audiogram confirms this: there is a +10 dB drop at frequencies below 1 kHz, a +15 dB drop in the left ear at 125 Hz, and a +10 dB dip in both ears at 4 kHz. Even though I have a drop, high frequencies after partial recovery become brighter than before but bass on some tracks is almost gone. I noticed, that on some tracks where I had enough of it before the trauma, it became nearly unnoticable after it. One time I literally thought there is no bass, it should start later, but no – if I listen very carefully I can barely hear it on that track, while on other tracks situation is a bit better. And this is in Sennheiser Momentum 2 – closed ANCs with some bass boost.
 
-Currently I periodically hear morse-code-like ringings in my ears. But they come and go. I am not sure there is a specific time for them to appear, but most of the time it happens after I wake up, not necesseraily in the morning, but even after a short nap.
+Currently I periodically hear morse-code-like ringings in my ears. But they come and go. I am not sure there is a specific time for them to appear, but most of the time it happens after I wake up, not necessarily in the morning, but even after a short nap.
 
 Despite all that, I can still feel emotions through music. I would estimate my current level of recovery at 80% - 90% of the pre-trauma level.
 
@@ -277,7 +277,7 @@ It appears that I am not the only one who faced the issue with the Hugo 2. My ow
 
 Here is the [link two the forum](https://www.head-fi.org/threads/chord-electronics-hugo-2-the-official-thread.831345/page-1412), where people discuss the similar, in my opinion, issue
 
-Here are a couple of archival links, in case original doesn't work (should work now, 08.02.2026):
+Here are a couple of archival links, in case original doesn't work (worked 08.02.2026):
 
 1. [Web Archive](https://web.archive.org/web/20260205172316/https://www.head-fi.org/threads/chord-electronics-hugo-2-the-official-thread.831345/page-1412)
 2. [archive.today](https://archive.ph/APqof)
