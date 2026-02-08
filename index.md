@@ -214,7 +214,7 @@ The doctor also noted that while I wasn't exactly early, it wasn't too late eith
 
 Here is the prescription, with the information about the doctor removed:
 
-![Prescrpiption to recover from acoustic trauma](/docs/medical/Prescription%2014.01.26.webp){: style="display: block; margin: 0 auto;" width="300"}
+![Prescrpiption to recover from acoustic trauma](/docs/medical/Prescription_14.01.26.webp{: style="display: block; margin: 0 auto;" width="600"}
 
 After I came back home, and got the first portion of steroids, I wrote to Gemini again. He suggested me to ask the doctor, thinking I was still in the clinic, if they have an HBOT (Hyperbaric Oxygen Therapy) chamber. It is a special medical device (there are also relaxation ones in SPA centers) which increases atmospheric pressure to deliver oxygen to cells more effectively. And the damaged cells need exactly that to survive. Again, the HBOT have to be medical, with the high pressure: 2.8 - 3.2 ATA.
 
@@ -254,11 +254,11 @@ Below you can find two audiometries.
 
 The first one serves as my baseline. I did it in Minsk before the trauma. The medical center where it was taken sent a photo of it to me, though I still have the original paper document. It shows 5 dB flat line for air conduction and 0 dB flat line for bone conduction up to 8 kHz. Additionally, in the original document, the doctor manually extended those lines with a pen to 12 kHz, as far as I remember. I will upload a photo of the original paper later.
 
-![Audiogram 24.01.2021](/docs/medical/Audiogram%2024.01.21.webp){: style="display: block; margin: 0 auto;" width="300"}
+![Audiogram 24.01.2021](/docs/medical/Audiogram_24.01.21.webp{: style="display: block; margin: 0 auto;" width="800"}
 
 And here is the result approximately 3.5 weeks after the trauma (03.02.26):
 
-![Audiogram 03.02.2026](/docs/medical/Audiogram%2003.02.26.webp){: style="display: block; margin: 0 auto;" width="300"}
+![Audiogram 03.02.2026](/docs/medical/Audiogram_03.02.26.webp){: style="display: block; margin: 0 auto;" width="800"}
 
 It exactly reflects how I hear now (08.02.26), after partial recovery:
 
@@ -283,7 +283,8 @@ Here are a couple of archival links, in case original doesn't work (should work 
 2. [archive.today](https://archive.ph/APqof)
 
 And a screenshot on top of that:
-![Head-Fi forum screenshot. Incidents involving others](/docs/evidence/Screenshot_20260205_201951.png){: style="display: block; margin: 0 auto;" width="300"}
+
+![Head-Fi forum screenshot. Incidents involving others](/docs/evidence/Screenshot_20260205_201951.png){: style="display: block; margin: 0 auto;"}
 
 In my opinion, all audio devices (not only high-end) must be designed with a "fail-safe" philosophy. Even if a component fails or a software bug occurs, it should never compromise the physical safety of the user. In such cases, the device should simply shut down or cut the output entirely, rather than ramping the volume to dangerous levels. An audio device should be built to protect its owner’s health above all else.
 
@@ -295,11 +296,11 @@ Below are photos of my Chord Hugo 2. I haven’t cleaned it or made any attempt 
 
 Top:
 
-![Chord Hugo 2 Top](/docs/photos/hugo-2-top.webp){: style="display: block; margin: 0 auto;" width="600"}
+![Chord Hugo 2 Top](/docs/photos/hugo-2-top.webp){: style="display: block; margin: 0 auto;" width="800"}
 
 Bottom:
 
-![Chord Hugo 2 Top](/docs/photos/hugo-2-bottom.webp){: style="display: block; margin: 0 auto;" width="600"}
+![Chord Hugo 2 Top](/docs/photos/hugo-2-bottom.webp){: style="display: block; margin: 0 auto;" width="800"}
 
 It is still in working condition. However, given the two incidents described above, I am 100% sure that it will "fire" again at some point. I believe that to prove this bug you just need to create sort of a QA stand and simply wait. Most probably there will be no need to disassemble it in order to figure out why it glitches.
 
