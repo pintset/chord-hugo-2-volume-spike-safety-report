@@ -30,14 +30,14 @@ I suffered acute acoustic trauma.
 - **Initial Shock:** Volume spike caused immediate "muffled" hearing and physical distress.
 - **Day 1-3:** Significant hearing dullness. Patient initially waited for recovery.
 - **Day 4-6:** Development of severe, "ultrasonic drilling" tinnitus, leading to insomnia.
-- **Clinical Findings (2026-01-12):** Tonal audiometry showed results within the 0-20 dB range.
+- **Clinical Findings (2026-01-12):** Tonal audiometry showed results within the 0 - 20 dB range.
 - **Conclusion:** Professional-grade hearing can be severely impaired even when standard tests show a "clinical norm".
 
 ### Treatment Protocol
 
 - **Medication:** Started **Metypred** (Methylprednisolone) 8mg/day for 7 days, plus **Neurovit** and **Betaserc** (Betahistine) for long-term recovery.
 - **HBOT (Hyperbaric Oxygen Therapy):** 10 sessions (60 min each) at pressures ranging from **2.0 to 2.8 ATA**.
-- - **Recovery Progress (as of Jan 29):** High-frequency "brightness" has largely returned. Tinnitus has softened into a manageable "white noise". Still suffering from the volume loss. Seems that I am getting adapted to this new norm, still hope for the full or near-full recovery.
+- **Recovery Progress (as of Jan 29):** High-frequency "brightness" has largely returned. Tinnitus has softened into a manageable "white noise". Still suffering from the volume loss. Seems that I am getting adapted to this new norm, still hope for the full or near-full recovery.
 
 ---
 
@@ -45,12 +45,12 @@ I suffered acute acoustic trauma.
 
 If you have been exposed to a sudden, deafening sound and feel that your hearing has changed, **every hour counts.** Do not wait for it to "go away." Follow these steps immediately:
 
-### 1. Seek Medical Attention Within 24–48 Hours
+### 1. Seek Medical Attention Within 24 – 48 Hours
 
 The window for effective treatment is extremely narrow. Go to an ENT (Ear, Nose, and Throat) specialist or an Emergency Room.
 
 - **The Goal:** You need to reduce inflammation of the auditory nerve and stop hair cells from dying.
-- **The Baseline:** If you have previous audiometry results, bring them. Doctors often ignore a 15–20 dB drop if the result is still within the "medical norm," unless you can prove it was better before.
+- **The Baseline:** If you have previous audiometry results, bring them. Doctors often ignore a 15 – 20 dB drop if the result is still within the "medical norm," unless you can prove it was better before.
 
 ### 2. Demand a Steroid Protocol
 
@@ -72,7 +72,7 @@ If available, start HBOT sessions as soon as possible.
 Your ears need a "blackout" period.
 
 - Avoid all loud environments. Use earplugs if you must go outside. I used ANC headphones without music.
-- **Crucial:** Do not perform "self-tests" with sine waves or music to check your hearing. It is like running on a broken leg—it only causes more stress to the damaged cells.
+- **Crucial:** Do not perform "self-tests" with sine waves or music to check your hearing. It is like running on a broken leg — it only causes more stress to the damaged cells.
 - Stop physical training for at least 3 weeks. The better way will be to ask the doctor about when you can start, and how intensive your exercises can be.
 
 ### 5. Nutritional Support
@@ -100,9 +100,9 @@ You can also report your progress to AI. Not only you will preserve it, but also
 
 I am the owner of the Chord Hugo 2 DAC/Amp for headphones. While this device has quite engaging sound and to some it can be quite addictive, it seems to me that it also has some serious engineering design flaw, that can severely damage your hearing.
 
-How? Very easily! As far as I understand, the device was built to drive any headphones – with almost no limitations. Because of that it has a very powerful headphones output, so it can drive voltage-hungry/high-impedance headphones, up to 600 ohms. However, you can also use it with low-impendance/high-sensitivity heaphones. That kind of setup may if not kill, but seriously damage your hearing at maximum volume. Technically, you are attaching headphones that require only a fraction of the power the Hugo 2 can produce, and creating a situation, which in case of some bug, hardware malfunction or anything unforseen can damage your hearing because that kind of setup makes it physically possible.
+How? Very easily! As far as I understand, the device was built to drive any headphones – with almost no limitations. Because of that it has a very powerful headphones output, so it can drive voltage-hungry/high-impedance headphones, up to 600 ohms. However, you can also use it with low-impendance/high-sensitivity headphones. That kind of setup may if not kill, but seriously damage your hearing at maximum volume. Technically, you are attaching headphones that require only a fraction of the power the Hugo 2 can produce, and creating a situation, which in case of some bug, hardware malfunction or anything unforseen can damage your hearing because that kind of setup makes it physically possible.
 
-Obviously, no one in their right mind would use the Hugo with low-impedance heahpones at its max power. However, it just so happens that my instance of device (and it looks like not only mine) can ramp up its volume to maximum automatically, without any user actions at all. Some day, you can listen to music and — boom – you have a very unpleasant surprise you would never expect to get from any audio device, let alone one in this class. I believe it does not matter how nice a device sounds and/or how much it costs, it should be designed in a way so it excludes even a slightest possibility of such behavior.
+Obviously, no one in their right mind would use the Hugo with low-impedance headphones at its max power. However, it just so happens that my instance of device (and it looks like not only mine) can ramp up its volume to maximum automatically, without any user actions at all. Some day, you can listen to music and — boom – you have a very unpleasant surprise you would never expect to get from any audio device, let alone one in this class. I believe it does not matter how nice a device sounds and/or how much it costs, it should be designed in a way so it excludes even a slightest possibility of such behavior.
 
 As you may have guessed, I suffered an acoustic trauma because of this issue.
 
@@ -110,13 +110,13 @@ Considering the target audience of it is the people who like to listen to music 
 
 While I am not a professional musician, I have some background. I played the instrument (bayan or button accordion), spent five years in music school, graduated at the top of my class and for another two years performed in a band, participating in concerts in different places in Belarus. I had a natural ability to mimick my teacher’s musical style and phrasing without any serious effort. It was a gift I received when I was born.
 
-I also had the ability to hear extremly silent sounds in complete silence, like sounds of steps of a fluffy cat walking at night. My brain presented silent sounds to me loudly and handled short, and also passed through temporary, very loud but short sounds (booms) without changing the "master volume". I had a sort of "extended dynamic range," which is now lost due to the trauma. Everything has become quieter: my footsteps, the sound of water, the sound of typing. However, I get adapted and started to compare less. It also seems that my brain decreased the overall "gain" to a enough-for-living level. I would compare it to the following: if before my max usual gain was X, and it was set by my brain basing of 90% of sounds I hear, plus for the rest 10% much louder sounds the brain allowed momentary overload, now nothing more than X is no allowed. So the loud 10% become my real max, at the volume where 90% of sounds were before, and 90% obviously become noticably quieter. However, I still hope that this may recover later.
+I also had the ability to hear extremly silent sounds in complete silence, like sounds of steps of a fluffy cat walking at night. My brain presented silent sounds to me loudly and also passed through temporary, very loud but short sounds (booms) without changing the "master volume". I had a sort of "extended dynamic range," which is now lost due to the trauma. Everything has become quieter: my footsteps, the sound of water, the sound of typing. However, I get adapted and started to compare less. It also seems that my brain decreased the overall "gain" to a enough-for-living level. I would compare it to the following: if before my max usual gain was X, and it was set by my brain basing on 90% of sounds I hear, plus for the rest 10% much louder sounds the brain allowed momentary overload, now nothing more than X is allowed. The loudest 10% become my real max, at the volume where I had 90% of sounds before, and 90% obviously become noticably quieter. However, I still hope that this may recover later.
 
 My hearing has already recovered to a decent level, though it is of course not the same as what I used to have. I originally wrote many details about the healing process, but then I decided that it is not important. In case something like that happens with someone else, recovery can go differently. However, I have included some general information on what to expect and more importantly, I have outlined [the steps on what you should do, and how to react](#emergency-steps-what-to-do-if-you-suffer-an-acoustic-trauma). The thing is you do not have much time. If you suffered from an acoustic trauma, the earlier you act the better recovery you will have.
 
 ## My setup with Chord Hugo 2
 
-For more than 20 years I have been bying and using different kinds of Hi-Fi devices starting back in the fall/winter 2005, when I bought my Sennheisers HD 595 – I still use them today. Over the years, I (and my father) have owned several other models: Sennheiser HD 598, HD 560s (which I plan to sell), HD 599 (which I returned to Amazon), HD 650 (which I still have, but they are broken), and HD 800. Also have three different over-ear ANC headphones. Overall, I do not like in-ear headphones or earbuds. My first dedicated headphone amplifier was the Lehmannaudio Black Cube Linear (BCL) USB.
+For more than 20 years I have been bying and using different kinds of Hi-Fi devices starting back in the fall/winter 2005, when I bought my Sennheisers HD 595 – I still use them today. Over the years, I (and my father) have owned several other models: Sennheiser HD 598, HD 560s (which I plan to sell), HD 599 (which I returned to Amazon), HD 650 (which I still have, but they are broken), and HD 800 (have but going to sell). Also have three different over-ear ANC headphones. Overall, I do not like in-ear headphones or earbuds. My first dedicated headphone amplifier was the Lehmannaudio Black Cube Linear (BCL) USB.
 
 Approximately for the last 6 months I have been constantly listening to HD 595 connected directly to my Chord Hugo 2. To some this combination might seem strange, but to my ears it was great. My hearing used to have a strong response to high frequences, even beyound 12 kHz, making many other headphones too sharp for me. The HD 595 gave me enough amount of high frequences. Plus I love vocals and HD 595 delivers them in emotional way. The other combination I liked and used for a long time was X-Fi Elite Pro + Lehmannaudio BCL + HD 650. It was a more sharp combination, but still very emotional and engaging.
 
@@ -129,11 +129,11 @@ However after migrating to laptops I started to use a USB connection. Since I ha
 
 Overall, I experienced 2 volume incidents. The second one led to the trauma. During both incidents, the device was used with the same laptop. The first occured while I was using Kubuntu 24.04 LTS (Linux) as an OS, and the second happened when I was using Kubuntu 25.10. I doubt the OS version matters, but I’m mentioning it for the sake of completeness. In both cases, no specific drivers were used, as Chord does not provide them for Linux — it simply works as a "plug-and-play" device. As I already mentioned, I used it and desktop mode, thus I don't disconnect it from my laptop of from power adapter.
 
-The device was connected to the laptop via a USB, directly to the laptop port – not through some hub or adapter. It is important to note, that you cannot change the volume from Kubuntu. It is important to note that you cannot change the device's volume from within Kubuntu; the only thing the OS can do is mute the output. To adjust the volume, you must physically rotate the volume knob on the device itself.
+The device was connected to the laptop via a USB, directly to the laptop port – not through some hub or adapter. It is important to note that you cannot change the device's volume from within Kubuntu; the only thing the OS can do is mute the output. To adjust the volume, you must physically rotate the volume knob on the device itself.
 
 Because my hearing was sensitive to quiet sounds and my headphones didn't require much power, I usually kept the Hugo at the 2nd to 4th volume step from zero. To be honest, I don’t want to check the exact level right now — I’ve developed a fear of the device and have no desire to use it at the moment. I even had some weird feelings in my ears everytime I had started to work on this text. Regardless, the volume knob, which is backlit to indicate level, was always in the red zone (the lowest volume range).
 
-The device nicely persisted the volume level I set in its memory, so there was no need to change it everytime I turn it on. I typically left it on for hours at a time during the day, only switching it off for short periods—such as during a long lunch or when leaving the house — and, of course, during the night.
+The device nicely persisted the volume level I set in its memory, so there was no need to change it everytime I turn it on. I typically left it on for hours at a time during the day, only switching it off for short periods — such as during a long lunch or when leaving the house — and, of course, during the night.
 
 ### First incident
 
@@ -151,11 +151,11 @@ This one I remember in much greater detail. It was the late evening of January 8
 
 I have spent in the bathroom about 10 mins. Before going in there the Hugo was already working for some time, don't remember how many hours. I left it at my usual volume level, very low – simply took the heaphones off my head and that was it. Actually, I almost don't use PC speaker, so I don't disturb neighbours in other apartments even during a day (walls are not thick enough). When I returned from the bathroom, I guess the Hugo had already maxed out its volume, based on the the first incident. I’m certain it didn't happen instantly, after I back. Anyway, I didn't know that the volume is maxed out after I returned from the bathroom. I didn't look at the volume indicator because I had no reason to expect it to change on its own. To be clear: I was alone, and my PC had not gone to sleep, as it is set to a one-hour standby interval.
 
-So, I put my headphones back, and pressed play. I don't remember exactly what it was. Most probably it was not music, but some video. At that moment, my chest tightened, I was not able to understand what is going on, literally lost ability to think – that loud it was. I was not even able to realize that I need to turn the volume down. While the headphones were on my head and that deafening sound was blasting into my ears, my brain simply stopped functioning. It was torture. However, somehow I was able, I believe something like in 3 seconds, to knock the heaphones together with my glasses off my head, by hitting them from behind by my hands.
+So, I put my headphones back, and pressed play. I don't remember exactly what it was. Most probably it was not music, but some video. At that moment, my chest tightened, I was not able to understand what is going on, literally lost ability to think – that loud it was. I was not even able to realize that I need to turn the volume down. While the headphones were on my head and that deafening sound was blasting into my ears, my brain simply stopped functioning. It was torture. However, somehow I was able, I believe something like in 3 seconds, to knock the headphones together with my glasses off my head, by hitting them from behind by my hands.
 
-It was then that I noticed the volume indicator was white. I began decreasing the volume manually, which is quite a clumsy process. The volume knob is designed in a way that requires multiple turns to make a significant change; you cannot do it in one or even one-and-a-half rotations.
+It was then that I noticed the volume indicator was white. I began decreasing the volume manually, which is quite a clumsy process. The volume knob is designed in a way that it requires multiple turns to make a significant change; you cannot do it in one or even one-and-a-half rotations.
 
-I had a low-pitched ringing in my ears that started to fade and disappeared after about 10 seconds. Since I was in deep shock, I don't remember exactly what I did next; I’d rather not say anything than make things up. Soon after, I went to bed. I had no blood coming from my ears (at least none that I noticed), and there were no any noices. So I slept okay.
+I had a low-pitched ringing in my ears that started to fade and disappeared after about 10 seconds. Since I was in deep shock, I don't remember exactly what I did next; I’d rather not say anything than make things up. Soon after, I went to bed. I had no blood coming from my ears (at least none that I noticed), and there were no any noises. So I slept okay.
 
 ### Short Treatment Time Line
 
@@ -167,17 +167,17 @@ When I woke up the first day after the trauma, I realised that I couldn't hear p
 
 However, there was no blood, no pain, no noise, no ringing – no anything. It was "just" a bad hearing.
 
-I performed a self-diagnosis and concluded it was likely a Temporary Threshold Shift (TTS) (https://en.wikipedia.org/wiki/Auditory_fatigue). As it turns out, I was partly right. Below is my own understanding of what happened to me. This is not medical advice; it’s just my personal model for understanding the situation, and I could be wrong.
+I performed a self-diagnosis and concluded it was likely a [Temporary Threshold Shift (TTS)](https://en.wikipedia.org/wiki/Auditory_fatigue). As it turns out, I was partly right. Below is my own understanding of what happened to me. This is not medical advice; it’s just my personal model for understanding the situation, and I could be wrong.
 
 When you break something, e.g. an arm, you feel the pain but it isn’t always overwhelming at first. The brain blocks the pain, temporarily, and, in case of the arm, you will have much higher intensity in 5 - 10 mins (Had such experience. Seems to me that I was even able to instinctively put the broken bone into required position while I was in a shock. I heard the related sound).
 
-Something similar happened with my ears. Most probably my brain, due to the shock, cut the signal from most of the hair cells (the ones which react to sound) in my inner ears. This is how I understood Temporary Threshold Shift. TTS, if it is TTS, passes in 2 - 3 days according to Internet, meaning during that perioud you will not hear the sound from the damaged or destroyed cells. You have the damage, but you don't fully realize the extent of it yet because the brain isn't notifying you. All you know is that you can’t hear well.
+Something similar happened with my ears. Most probably my brain, due to the shock, cut the signal from most of the hair cells (the ones which react to sound) in my inner ears. This is how I understood Temporary Threshold Shift. TTS, if it is TTS, passes in 2 - 3 days according to Internet, meaning during that period you will not hear the sound from the damaged or destroyed cells. You have the damage, but you don't fully realize the extent of it yet because the brain isn't notifying you. All you know is that you can’t hear well.
 
 I thought, that as soon as TTS passed, I would start to hear properly, like before. I thought that TTS itself is like a disease, which passes in 2 - 3 days. Instead, as you probably already guessed, once those 2 or 3 days passed, the situation in certain areas actually began to worsen.
 
 #### 12.01.2026 (Monday)
 
-During the second path of Sunday (11.01.26), I noticed slight improvement in my hearing. The sound regained some attack, became a bit brighter. I thought – this is it, the situation started to improve. But I was wrong.
+During the second part of Sunday (11.01.26), I noticed slight improvement in my hearing. The sound regained some attack, became a bit brighter. I thought – this is it, the situation started to improve. But I was wrong.
 
 By Monday morning the Sunday's progress had gone. Moreover, things got worse. I had a strange feelings inside my ears — a physical feeling as if something were inserted in there, though they were empty.
 
@@ -191,7 +191,7 @@ However, I didn't have my previous audiometry results from Minsk with me, which 
 
 #### 13.01.2026 (Tuesday)
 
-During the night of the 12th to the 13th, my condition worsened. I began hearing various high-pitched noises at different frequencies that kept me awake. They were loud and easy to hear, but not instence enough to keep me awake for a long time, so I eventually got tired and managed to fall asleep.
+During the night of the 12th to the 13th, my condition worsened. I began hearing various high-pitched noises at different frequencies that kept me awake. They were loud and easy to hear, but not intense enough to keep me awake for a long time, so I eventually got tired and managed to fall asleep.
 
 #### 14.01.2026 (Wednesday)
 
@@ -205,7 +205,7 @@ In addition, about one hour before the visit, I was able to get my previous audi
 
 This time, I was prescribed a treatment plan:
 
-1. Metypred (Steroids), 8 mg per day. I had to take it once a day in the morning for a week. On that first day, I took them as soon as I got home, between 2:00 PM and 3:00 PM. I should mention that I rarely take medication except vitamins — years can go by between doses. But these tablets are excellent; they are even prescribed for severe injuries, like spinal cord trauma. They provide a rapid recovery boost for cells (allowing some who couldn't walk to start walking again, even if poorly). However, it’s crucial to start taking them as soon as possible after the incident.
+1. Metypred (Steroids), 8 mg per day. I had to take it once a day in the morning for a week. On that first day, I took them as soon as I got home, between 2:00 PM and 4:00 PM. I should mention that I rarely take medication except vitamins — years can go by between doses. But these tablets are excellent; they are even prescribed for severe injuries, like spinal cord trauma. They provide a rapid recovery boost for cells (allowing some who couldn't walk to start walking again, even if poorly). However, it’s crucial to start taking them as soon as possible after the incident.
 2. Betaserc, twice a day (morning and afternoon) for 60 days.
 3. Neurovit, twice a day (morning and evening) for 50 days.
 4. Nasonex (Nasal spray), twice a day, morning and evening, for 3 weeks.
@@ -213,7 +213,8 @@ This time, I was prescribed a treatment plan:
 The doctor also noted that while I wasn't exactly early, it wasn't too late either. He felt there was a good chance for recovery and scheduled a follow-up for two months later.
 
 Here is the prescription, with the information about the doctor removed:
-![Prescrpiption to recover from acoustic trauma](/docs/medical/Prescription%2014.01.26.webp){: width="300"}
+
+![Prescrpiption to recover from acoustic trauma](/docs/medical/Prescription%2014.01.26.webp){: style="display: block; margin: 0 auto;" width="300"}
 
 After I came back home, and got the first portion of steroids, I wrote to Gemini again. He suggested me to ask the doctor, thinking I was still in the clinic, if they have an HBOT (Hyperbaric Oxygen Therapy) chamber. It is a special medical device (there are also relaxation ones in SPA centers) which increases atmospheric pressure to deliver oxygen to cells more effectively. And the damaged cells need exactly that to survive. Again, the HBOT have to be medical, with the high pressure: 2.8 - 3.2 ATA.
 
@@ -231,7 +232,7 @@ Overall, I was prescribed 10 procedures in HBOT, each for 60 mins.
 
 The first procedure was at 2.0 ATA, while I was prescribed 2.8 ATA. The thing is, you cannot have 2.8 ATA right away, you need to be trained. However, that 2.0 ATA which I luckly got the same day has stopped degradation of my cells and started the healing process.
 
-Gemini also noted that Metypred reaches peak activity about two hours after ingestion, so I timed all my subsequent HBOT sessions to coincide with that window for maximum effect.
+Gemini also noted that Metypred reaches peak activity about two hours after ingestion, so I took the steroids approx. 2 hours before the sesssion, as was suggested.
 
 Regarding the effect after the first procedure: something started to change after 2 hours after I left the clinic. I had different kind of ringings in my ears, but they became softer. It was ok to listen to them like some music, but it was also ok to sleep. They were not that intensive as I had them during the previous night. So I was able to sleep properly.
 
@@ -253,16 +254,16 @@ Below you can find two audiometries.
 
 The first one serves as my baseline. I did it in Minsk before the trauma. The medical center where it was taken sent a photo of it to me, though I still have the original paper document. It shows 5 dB flat line for air conduction and 0 dB flat line for bone conduction up to 8 kHz. Additionally, in the original document, the doctor manually extended those lines with a pen to 12 kHz, as far as I remember. I will upload a photo of the original paper later.
 
-![Audiogram 24.01.2021](/docs/medical/Audiogram%2024.01.21.webp){: width="300"}
+![Audiogram 24.01.2021](/docs/medical/Audiogram%2024.01.21.webp){: style="display: block; margin: 0 auto;" width="300"}
 
 And here is the result approximately 3.5 weeks after the trauma (03.02.26):
 
-![Audiogram 03.02.2026](/docs/medical/Audiogram%2003.02.26.webp){: width="300"}
+![Audiogram 03.02.2026](/docs/medical/Audiogram%2003.02.26.webp){: style="display: block; margin: 0 auto;" width="300"}
 
 It exactly reflects how I hear now (08.02.26), after partial recovery:
 
 1. Lower Overall Volume: There is a +5 dB shift in bone conduction.
-2. Loss of "Body": Before this test, I described my hearing as sounding like small, thin speakers — especially when compared to the large, full-bodied sound of the Radiotehnika S-90s I grew up with. The audiogram confirms this: there is a +10 dB drop at frequencies below 1 kHz, a +15 dB drop in the left ear at 125 Hz, and a +10 dB dip in both ears at 6 kHz. Even though I have a drop, high frequencies after partial recovery become brighter than before but bass on some tracks is almost gone. I noticed, that on some tracks where were enough of it before it became nearly unnoticable. One time I literally thought there is no bass, it should start later, but no – if I listen very carefully I can barely hear it on that track, while on other tracks situation is a bit better. And this is in Sennheiser Momentum 2 – closed ANCs with some bass boost.
+2. Loss of "Body": Before this test, I described my hearing as sounding like small, thin speakers — especially when compared to the large, full-bodied sound of the Radiotehnika S-90 I grew up with. The audiogram confirms this: there is a +10 dB drop at frequencies below 1 kHz, a +15 dB drop in the left ear at 125 Hz, and a +10 dB dip in both ears at 6 kHz. Even though I have a drop, high frequencies after partial recovery become brighter than before but bass on some tracks is almost gone. I noticed, that on some tracks where I had enough of it before the trauma, it became nearly unnoticable after it. One time I literally thought there is no bass, it should start later, but no – if I listen very carefully I can barely hear it on that track, while on other tracks situation is a bit better. And this is in Sennheiser Momentum 2 – closed ANCs with some bass boost.
 
 Currently I periodically hear morse-code-like ringings in my ears. But they come and go. I am not sure there is a specific time for them to appear, but most of the time it happens after I wake up, not necesseraily in the morning, but even after a short nap.
 
@@ -274,29 +275,31 @@ Also, I am still on medication: Betaserc and Neurovit. So there is hope, that th
 
 It appears that I am not the only one who faced the issue with the Hugo 2. My own experience — two separate incidents — along with at least two other cases I found documented online, made me write this article. If it was only me, most likely I would contact Chord Electronics support only. However, it seems this is not a one-off event and may point to a serious engineering flaw.
 
-Here is the link two the forum, where people discuss the similar, in my opinion, issue: https://www.head-fi.org/threads/chord-electronics-hugo-2-the-official-thread.831345/page-1412
+Here is the [link two the forum](https://www.head-fi.org/threads/chord-electronics-hugo-2-the-official-thread.831345/page-1412), where people discuss the similar, in my opinion, issue
 
 Here are a couple of archival links, in case original doesn't work (should work now, 08.02.2026):
 
-1. Web Archive: https://web.archive.org/web/20260205172316/https://www.head-fi.org/threads/chord-electronics-hugo-2-the-official-thread.831345/page-1412
-2. archive.today: https://archive.ph/APqof
+1. [Web Archive](https://web.archive.org/web/20260205172316/https://www.head-fi.org/threads/chord-electronics-hugo-2-the-official-thread.831345/page-1412)
+2. [archive.today](https://archive.ph/APqof)
 
-And a screenshot on top:
-![Head-Fi forum screenshot. Incidents involving others](/docs/evidence/Screenshot_20260205_201951.png){: width="300"}
+And a screenshot on top of that:
+![Head-Fi forum screenshot. Incidents involving others](/docs/evidence/Screenshot_20260205_201951.png){: style="display: block; margin: 0 auto;" width="300"}
 
 In my opinion, all audio devices (not only high-end) must be designed with a "fail-safe" philosophy. Even if a component fails or a software bug occurs, it should never compromise the physical safety of the user. In such cases, the device should simply shut down or cut the output entirely, rather than ramping the volume to dangerous levels. An audio device should be built to protect its owner’s health above all else.
 
-In this particular case, another way would be to create some switches, which depending on the headphones, doesn't allow to increase the volume more than that limit. At the same time, there was a limiter – the volume knob. It just has failed.
+In this particular case, another way can be to create some physical switches, which depending on the headphones, doesn't allow to increase the volume more than some limit. At the same time, there was a limiter – the volume knob. It's just failed.
 
 ## Photos of my devices
 
 Below are photos of my Chord Hugo 2. I haven’t cleaned it or made any attempt to improve its appearance for these shots; this is exactly how it looks in daily use.
 
 Top:
-![Chord Hugo 2 Top](/docs/photos/hugo-2-top.webp){: width="300"}
+
+![Chord Hugo 2 Top](/docs/photos/hugo-2-top.webp){: style="display: block; margin: 0 auto;" width="600"}
 
 Bottom:
-![Chord Hugo 2 Top](/docs/photos/hugo-2-bottom.webp){: width="300"}
+
+![Chord Hugo 2 Top](/docs/photos/hugo-2-bottom.webp){: style="display: block; margin: 0 auto;" width="600"}
 
 It is still in working condition. However, given the two incidents described above, I am 100% sure that it will "fire" again at some point. I believe that to prove this bug you just need to create sort of a QA stand and simply wait. Most probably there will be no need to disassemble it in order to figure out why it glitches.
 
@@ -306,7 +309,7 @@ I am not going to sell the device or get rid of it in any other way. No plans to
 
 Dear Chord Electronics,
 
-I have no intention of damaging your reputation with this article, but considering what has happened to me, and given similar reports from other users, I felt it was my duty to document this experience. I want this information accessible to other people via search engines and AI for the benefit of the community. I believe that even a partial loss of hearing is a very serious matter. I am personally would never bought it, if I knew about the issue with the volume.
+I have no intention of damaging your reputation with this article, but considering what has happened to me, and given similar reports from other users, I felt it was my duty to document this experience. I want this information accessible to other people via search engines and AI for the benefit of the community. I believe that even a partial loss of hearing is a very serious matter. I personally would never bought it, if I knew about the issue with the volume.
 
 Also I think that potential customers have a right to know and understand the risks before buying this device.
 
