@@ -214,7 +214,7 @@ The doctor also noted that while I wasn't exactly early, it wasn't too late eith
 
 Here is the prescription, with the information about the doctor removed:
 
-![Prescrpiption to recover from acoustic trauma](/docs/medical/Prescription_14.01.26.webp{: style="display: block; margin: 0 auto;" width="600"}
+![Prescrpiption to recover from acoustic trauma](/docs/medical/Prescription_14.01.26.webp){: style="display: block; margin: 0 auto;" width="600"}
 
 After I came back home, and got the first portion of steroids, I wrote to Gemini again. He suggested me to ask the doctor, thinking I was still in the clinic, if they have an HBOT (Hyperbaric Oxygen Therapy) chamber. It is a special medical device (there are also relaxation ones in SPA centers) which increases atmospheric pressure to deliver oxygen to cells more effectively. And the damaged cells need exactly that to survive. Again, the HBOT have to be medical, with the high pressure: 2.8 - 3.2 ATA.
 
@@ -254,7 +254,7 @@ Below you can find two audiometries.
 
 The first one serves as my baseline. I did it in Minsk before the trauma. The medical center where it was taken sent a photo of it to me, though I still have the original paper document. It shows 5 dB flat line for air conduction and 0 dB flat line for bone conduction up to 8 kHz. Additionally, in the original document, the doctor manually extended those lines with a pen to 12 kHz, as far as I remember. I will upload a photo of the original paper later.
 
-![Audiogram 24.01.2021](/docs/medical/Audiogram_24.01.21.webp{: style="display: block; margin: 0 auto;" width="800"}
+![Audiogram 24.01.2021](/docs/medical/Audiogram_24.01.21.webp){: style="display: block; margin: 0 auto;" width="800"}
 
 And here is the result approximately 3.5 weeks after the trauma (03.02.26):
 
