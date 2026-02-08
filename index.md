@@ -214,7 +214,7 @@ The doctor also noted that while I wasn't exactly early, it wasn't too late eith
 
 Here is the prescription, with the information about the doctor removed:
 
-![Prescrpiption to recover from acoustic trauma](/docs/medical/Prescription_14.01.26.webp){: style="display: block; margin: 0 auto;" width="600"}
+![Prescrpiption to recover from acoustic trauma](/docs/medical/Prescription_14.01.26.webp){: style="display: block; margin: 0 auto;" width="400"}
 
 After I came back home, and got the first portion of steroids, I wrote to Gemini again. He suggested me to ask the doctor, thinking I was still in the clinic, if they have an HBOT (Hyperbaric Oxygen Therapy) chamber. It is a special medical device (there are also relaxation ones in SPA centers) which increases atmospheric pressure to deliver oxygen to cells more effectively. And the damaged cells need exactly that to survive. Again, the HBOT have to be medical, with the high pressure: 2.8 - 3.2 ATA.
 
