@@ -252,7 +252,7 @@ At one point, I performed a sine sweep test at low volume to assess my progress.
 
 Below you can find two audiometries.
 
-The first one serves as my baseline. I did it in Minsk before the trauma. The medical center where it was taken sent a photo of it to me, though I still have the original paper document. It shows 5 dB flat line for air conduction and 0 dB flat line for bone conduction up to 12.5 kHz. The 12.5 kHz entry, dot and a cross are added on the graph by a hand of the doctor.
+The first one serves as my baseline. I did it in Minsk before the trauma. The medical center where it was taken sent a photo of it to me, though I still have the original paper document. It shows 5 dB flat line for air conduction and 0 dB flat line for bone conduction up to 12.5 kHz. The 12.5 kHz entry, dot and a cross on the graphs were added by a hand of the doctor.
 
 ![Audiogram 24.01.2021](/docs/medical/Audiogram_24.01.21_full_photo.webp){: style="display: block; margin: 0 auto;""}
 
